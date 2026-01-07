@@ -9,7 +9,7 @@ A real-time KYC (Know Your Customer) verification system that uses ArcFace-based
 📖 Overview
 
 This project implements a prototype-level KYC liveness verification pipeline using a webcam.
-It verifies both:
+It verifies both: 
 
 Identity – by matching the user’s face using ArcFace embeddings
 
