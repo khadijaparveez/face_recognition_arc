@@ -149,33 +149,9 @@ User must complete gesture within the timeout period
 
 Hand landmarks are detected using MediaPipe
 
-⚠️ Limitations
+Download hand_landmarker.task from MediaPipe and place it in the project root.
 
-Prototype-level implementation
 
-Sensitive to lighting and camera quality
-
-Gesture-based liveness only (no blink or head movement)
-
-No anti-deepfake detection
-
-No ID document verification
-
-🚀 Future Enhancements
-
-Blink and head-movement liveness checks
-
-Deep learning–based liveness detection
-
-Anti-spoof / anti-deepfake protection
-
-Face matching with ID documents
-
-REST API using FastAPI
-
-Web / mobile frontend integration
-
-Production-grade logging and security
 
 🏁 Conclusion
 
